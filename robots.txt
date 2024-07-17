@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omenatedo.github.io/sitemap
+Sitemap: https://omenatedo.github.io/app/sitemap
+Sitemap: https://omenatedo.github.io/assets/sitemap
+Sitemap: https://omenatedo.github.io/css/sitemap
+Sitemap: https://omenatedo.github.io/includes/sitemap
+Sitemap: https://omenatedo.github.io/item/sitemap
+Sitemap: https://omenatedo.github.io/src/sitemap
